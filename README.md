@@ -1,5 +1,5 @@
 <h1>Issue Log-</h1>
-initial project overview - issue tracker(bug tracker).  Issues are logged by the erson who finds them.  Manager assigns a priority and a resouce to fix it. Resource (coder) logs solution, reviews test with Reporter, creates solution, demonstrate to Reporter the solution works.  Reporter signs off on solution, manager signs off on issue closure.  Report on daily, weekly and project life status of issues.
+<h2>initial project overview - issue tracker(bug tracker). </h2> <i>This is the need and what I built to solve it.</i><  App to log issues and some steps to track status.  Issues are logged by the person (IR) who finds them. Then the Manager assigns a priority and a Resouce to fix it. Resource (coder) logs solution, reviews test with Reporter, creates solution, demonstrate to Reporter the solution works.  Reporter signs off on solution, manager signs off on issue closure.  Report on daily, weekly and project life status of issues.
 
 <li>Create tables/objects for issue tracker</li>
 <li>draw out design for screens and workflow </li>
