@@ -28,3 +28,4 @@
 * Security API for login? , assuming I do not use a pre-written API
 ### Project Tracker
 [Trello project tracker](https://trello.com/c/swfziEUM/1-create-project-plan)
+currently tying the CSS forms to actual code to populate them.  12/6/2019
